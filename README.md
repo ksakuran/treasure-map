@@ -5,7 +5,15 @@ Users can create their own maps, "favourite" maps, they can contribute to shared
 
 Treasure map was built as a midterm project for the Lighthouse Labs Web Development Bootcamp. 
 
+## Preview of the Application
+### Explore page to browse available maps
+![explore page](https://github.com/ksakuran/treasure-map/blob/master/public/images/explore-page.png?raw=true)
 
+### Adding a point to a map
+![add point](https://github.com/ksakuran/treasure-map/blob/master/public/images/treasure-maps-add-point.gif?raw=true)
+
+### Favouriting and unfavouriting maps
+![favouriting](https://github.com/ksakuran/treasure-map/blob/master/public/images/treasure-maps-favorites.gif?raw=true)
 
 
 ## Getting Setup
